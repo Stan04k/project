@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Dosis:wght@600&family=Jura:wght@500&family=Tektur&display=swap');
+
+body{
+    font-family: 'Dosis', serif;
+    background: linear-gradient(white,#A6FFF0 , #FFA6C1);
+}
+
+header{
+    background-color: #f0f1e1;
+    border-radius: 25px;
+    text-align: center;
+    color: rgba(0, 172, 243, 0.8);
+    width: 768px;
+    margin: auto;
+    padding: 32px;
+    font-family: 'Dosis', serif;
+    text-transform: uppercase;
+    font-size: 22px;
+    border: 2px solid rgba(0, 172, 243, 0.8);
+}
+.ava{
+    background-image: url("ava.png");
+}
+.vm{
+    display: block;
+}
+main{
+    font-family: 'Dosis', serif;
+    width: 768px;
+    margin: auto;
+    background-color:#f0f1e1;
+    padding: 32px;
+    border: 2px solid rgba(0, 172, 243, 0.8);
+    border-radius: 25px;
+    display: flex;
+}s
+.m1{
+    margin: auto;
+    
+
+}
+.ma1{
+    display: block;
+    margin: auto;
+    
+}
+.v1{
+    font-family: 'Dosis', serif;
+    width: 92%;
+    margin: auto;
+}
+.b1{
+    width: 700px;
+    height: 130px;
+    background-size: cover;
+    background-image: url("tohead\ .jpg");
+    
+    border-radius: 20px;
+    
+}
+.zp{
+    width: 20;
+
+}
+iframe{
+    width: 50;
+    height: 500;
+    border-radius: 25px;
+}
+.b4{
+    width: 160px;
+    height: 225px;
+    background-size: contain;
+    background-image: url("Screenshot_137.png");
+    margin-left: 60%;
+    margin: auto;
+    
+}
+.b6{
+    width: 248px;
+    height: 100px;
+    background-size: contain;
+    background-image: url("Screenshot_139.png");
+    margin-left: 60%;
+    margin: auto;
+    border-radius: 7px;
+}
+.b5{
+    width: 225px;
+    height: 225px;
+    background-size: contain;
+    background-image: url("Screenshot_138.png");
+    margin-left: 60%;
+    margin: auto;
+    border-radius: 20px;
+}
+p{
+    font-family: 'Dosis', serif;
+    color: #f0f1e1;
+    background-color: #1d67f0;
+    border: 2 px black;
+    width: 100px;
+    border-radius: 8px;
+    text-align: center;
+    
+}
+.m1{
+    width: 90px;
+    
+}
+.m2{
+    margin: auto;
+    width: 50%;
+    
+}
+footer{
+    background-color: #f0f1e1;
+    border-radius: 25px;
+    display: flex;
+    text-align: center;
+    color: rgb(74, 152, 255);
+    width: 768px;
+    margin: auto;
+    padding: 32px;
+    text-transform: uppercase;
+    font-size: 20px;
+    border: 2px solid rgba(0, 172, 243, 0.8);
+}
+.txt{
+    background-color: #f0f1e1;
+    border-radius: 25px;
+
+    text-align: center;
+    color: rgb(74, 152, 255);
+    
+    margin: auto;
+
+    text-transform: uppercase;
+    font-size: 20px;
+    border: 2px solid rgba(0, 172, 243, 0.8);
+}
+.f2{
+    background-image: url("ava.png");
+}
+
+
+.a1{
+    width: 50px;
+}
+
+.a2{
+    width: 50px;
+    height: 50px;
+    background-size: contain;
+    background-image: url("gdfgdg.png");
+}
+.b2{
+    width: 50px;
+    height: 50px;
+    background-size: contain;
+    background-image: url("telegram_black_logo_icon_147073.png");
+}
+.b3{
+    width: 70px;
+    height: 70px;
+    background-size: contain;
+    background-image: url("SBK.jpg");
+    border-radius: 50px;
+}
+.n1{
+    margin: auto;
+}
